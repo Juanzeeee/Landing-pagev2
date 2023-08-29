@@ -33,3 +33,9 @@ ul {
 .section1 {
     background-color: #1f2937;
 }
+
+.section1-header {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
