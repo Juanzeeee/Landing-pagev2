@@ -32,6 +32,16 @@ ul {
 
 .section1 {
     background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+}
+
+.containersec1 {
+    max-height: 300px;
+    display: flex;
+    flex-flow: row wrap;
 }
 
 .section1-header {
@@ -51,4 +61,5 @@ button {
 
 .section1 img {
     width: 400px;
+    height: 300px;
 }
