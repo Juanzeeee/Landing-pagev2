@@ -1,7 +1,5 @@
 body {
     font-family: sans-serif;
-    width: 100vw;
-    height: 100vh;
 }
 
 .header {
@@ -38,12 +36,6 @@ ul {
     align-items: center;
     justify-content: center;
     min-height: 400px;
-}
-
-.containersec1 {
-    max-height: 300px;
-    display: flex;
-    flex-flow: row wrap;
 }
 
 .section1-header {
