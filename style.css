@@ -84,6 +84,15 @@ ul {
     margin-top: 30px;
 }
 
+.info {
+    display: flex;
+    flex-flow: column wrap;
+    width: 250px;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+
 .section2 img {
     height: 250px;
     width: 250px;
