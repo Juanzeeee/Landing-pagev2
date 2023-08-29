@@ -34,8 +34,13 @@ ul {
     background-color: #1f2937;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     min-height: 400px;
+}
+
+.section1container {
+    width: 500px;
+    margin-right: 25px;
 }
 
 .section1-header {
@@ -47,13 +52,15 @@ ul {
 .section1-text {
     font-size: 18px;
     color: #e5e7eb;
+    margin-top: 10px;
 }
 
-button {
+.section1 button {
     background-color: #3882F6;
+    margin-top: 10px;
 }
 
 .section1 img {
-    width: 300px;
-    height: 200px;
+    width: 500px;
+    height: 300px;
 }
