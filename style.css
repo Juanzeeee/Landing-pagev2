@@ -74,14 +74,14 @@ ul {
     font-weight: bolder;
     color: #1f2937;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 60px;
 }
 
 .section2container {
     display: flex;
     gap: 52px;
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 60px;
 }
 
 .info {
@@ -96,4 +96,7 @@ ul {
 .section2 img {
     height: 250px;
     width: 250px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #3882F6;
 }
