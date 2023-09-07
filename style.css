@@ -110,6 +110,9 @@ ul {
     align-items: center;    
 }
 
-.section3-text h3 {
-    align-self: flex-start;
+.section4 {
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
