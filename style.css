@@ -125,6 +125,6 @@ ul {
     border-radius: 15px;
     color: #f9faf8;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
