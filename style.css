@@ -116,3 +116,15 @@ ul {
     justify-content: center;
     align-items: center;
 }
+
+.section4-box {
+    background-color: #3882F6;
+    width: 900px;
+    height: 120px;
+    padding: 10px;
+    border-radius: 15px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
