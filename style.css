@@ -128,3 +128,13 @@ ul {
     justify-content: space-around;
     align-items: center;
 }
+
+.section4-text h4{
+    margin-bottom: 0;
+    font-size: 25px;
+}
+
+.section4 p {
+    margin-top: 5px;
+    font-size: 19px;
+}
